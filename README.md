@@ -8,4 +8,4 @@ Also, it's subclass UVIslamicDatePickerView supports Islamic Hijri calendar with
 How to install
 ================
 Copy files from Picker directory to your project and start using it directly.
-Supports both ininialization from code and Interface Builder.
+Supports both initialization from code and Interface Builder.
